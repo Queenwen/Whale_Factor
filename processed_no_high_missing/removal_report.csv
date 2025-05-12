@@ -1,0 +1,5 @@
+file_name,total_columns_before,columns_removed,total_columns_after,removal_percentage
+amount_in_top_holders.csv,90,12,78,13.333333333333334
+whale_transaction_count_100k_usd_to_inf.csv,91,56,35,61.53846153846154
+missing_values_stats.csv,6,0,6,0.0
+whale_transaction_volume_100k_usd_to_inf.csv,90,55,35,61.111111111111114
